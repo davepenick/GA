@@ -1,31 +1,53 @@
 .top {
 	height: 400px;
-  background: url(../images/header_bg.jpg) no-repeat top;
-  background-color: black;
-  padding-top: 32px;
-  padding-bottom: 32px;
+  	background: url(../images/header_bg.jpg) no-repeat top;
+  	background-color: black;
+  	padding-top: 32px;
+  	padding-bottom: 32px;
 }
 #company {
+	font-size: 24px;
+	text-style: bold;
+	margin-left: 800px;
+	color: white;
+
+}
+ul, p {
+display:table; 
+margin:0 auto;
 
 
 }
+#benefits {
+  padding: ;
+  height: 200px;
+}
+h3 {
+  display:inline;
+  margin: 905px;
+  color: black;
+
+}
+
+
 #motto {
 
 
 }
 .wrapper {
+	text-align: center;
 
 
 }
 
 .button {
-
-
+	background-color: yellow;
+	position: middle;
 
 }
 .testimonial {
 	background: url(../images/testimonial_bg.jpg) no-repeat top center #071324;
-  padding: 70px 0 70px;
-  color: #fff;
+  	padding: 70px 0 70px;
+  	color: #fff;
 
 }
