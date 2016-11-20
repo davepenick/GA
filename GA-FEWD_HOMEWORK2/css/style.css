@@ -1,3 +1,5 @@
+
+
 #company {
 	font-size: 24px;
 	font-family: helvetica;
@@ -38,22 +40,22 @@
  	background-color
  	padding-top: 60px;
  }
- #benefits {
-  padding: 100px 0 80px;
-}
+ 
 h3 {
   color: #033048;
   font-size: 40px;
   font-weight: 600;
   margin-bottom: 40px;
+  text-align: center;
 }
-#benefits p, #benefits ul {
-  width: 600px;
+#benefits {
+  text-align: center;
 
- }
-  #benefits ul {
-  list-style: disc;
-  margin: 30px 0 0 80px;
+
+}
+ul {
+  display:table; margin:0 auto;
+
 }
 .container {
   width: 100%;
