@@ -20,9 +20,15 @@
 }
 
 .button {
-    position: middle;
-    top: 50%;
-    background-color: yellow;
+  border-radius: 5px;
+  font-weight: 800;
+  padding: 12px 0;
+  width: 280px;
+  font-size: 28px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  background-color: yellow;
 }
 
 .top {
@@ -54,4 +60,15 @@ blockquote span {
   font-weight: 600;
   display: block;
   font-style: normal;
+}
+.button2 {
+border-radius: 5px;
+  font-weight: 800;
+  padding: 12px 0;
+  width: 280px;
+  font-size: 28px;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  background-color: yellow;
 }
