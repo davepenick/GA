@@ -1,16 +1,57 @@
+#company {
+  font-size: 24px;
+  font-family: helvetica;
+  color: white;
+  margin-left: 800px;
+  
 
+
+}
+#motto {
+  font-size: 22px;
+  font-family: helvetica;
+  color: white;
+  text-align: center;
+
+
+}
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: middle;
+    top: 50%;
+    background-color: yellow;
+}
 
 .top {
-height: 400px;
-background: url(../images/header_bg.jpg) no-repeat top;
-background-color: black;
-padding-top: 32px;
-padding-bottom: 32px;
 
+  height: 400px;
+  background: url(../images/header_bg.jpg) no-repeat top;
+  background-color: black;
+  padding-top: 32px;
+  padding-bottom: 32px;
+ }
+ .middle {
 
 }
 .testimonial {
 	background: url(../images/testimonial_bg.jpg) no-repeat top center #071324;
+	height: 300px;
   padding: 70px 0 70px;
   color: #fff;
+}
+blockquote {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  text-align: center;
+  width: 580px;
+  margin: 0 auto;
+}
+blockquote span {
+  font-weight: 600;
+  display: block;
+  font-style: normal;
 }
