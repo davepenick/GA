@@ -1,5 +1,18 @@
+header {
+  padding-top: 50px;
+  padding-right: 60px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+.journey {
+  padding-top: 50px;
+  padding-right: 60px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
 body {
   background-color: aqua;
+  background: url(bubbles.jpg);
   color: black;
   text-align: center;
   background-position: top;
