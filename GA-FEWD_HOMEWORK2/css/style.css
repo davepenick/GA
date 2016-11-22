@@ -70,5 +70,6 @@ border-radius: 5px;
   text-align: center;
   display: block;
   margin: 0 auto;
-  background-color: yellow;
+  background-color: #00008B;
+  color: white;
 }
