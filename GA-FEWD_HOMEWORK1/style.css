@@ -1,0 +1,64 @@
+body {
+  background-color: aqua;
+  color: black;
+  text-align: center;
+  background-position: top;
+
+  }
+
+img {
+ border: solid;
+  
+}
+
+h2 {
+  text-align: left;
+}
+
+p {
+  text-align: left;
+  
+}
+  
+ul {
+   
+  padding: 20px;
+ }
+
+li {
+  display: inline;
+  border-right;
+  } 
+
+a {
+  
+ color: black; 
+  
+}
+
+footer {
+  font-size: 30px;
+ 
+}
+
+hr
+{
+    border: 3px solid #000;
+   
+}
+
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+
+ 
