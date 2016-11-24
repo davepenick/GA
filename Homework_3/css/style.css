@@ -122,9 +122,9 @@ section:hover {
 
 aside {
   background-color: #f0efef;
-  width: 240px;
+  width: 282px;
   height: 1522px;
-  max-width: 240px;
+  max-width: 282px;
   padding-right: 20px;
   padding-top: 40px;
   float: right;
@@ -165,7 +165,7 @@ aside {
 
 #ad-unit {
   margin-top: 40px;
-  width: 240px;
+  width: 282px;
   height: 500px;
   background-color: #FFFFFF;
   text-align: center;
@@ -186,7 +186,7 @@ aside:hover {
 #yellow-banner {
   clear: both;
   height: 100px;
-  width: 1000px;
+  width: 1024px;
   background: #f9e42e;
   padding: 0px;
   margin: 0 auto;
@@ -212,7 +212,7 @@ button {
 
 footer {
   height: 240px;
-  width: 1000px;
+  width: 1024px;
   background: rgb(11,14,14);
 }
 
