@@ -5,10 +5,7 @@ body {
   padding: 0 auto;
 }
 
-a {
-  text-decoration: none;
-  color: inherit;
-}
+/* Header content */
 
 
 header {
@@ -47,7 +44,7 @@ li {
 }
 
 
-
+/* Main body */
 
 #main {
   background-color: #f0efef;
@@ -113,7 +110,7 @@ section:hover {
   background-color: #e7efef;
 }
 
-
+/* Aside */
 
 
 
@@ -176,7 +173,7 @@ aside:hover {
 }
 
 
-
+/* Footer */
 
 
 
