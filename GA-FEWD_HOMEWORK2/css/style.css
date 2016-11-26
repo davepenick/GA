@@ -6,7 +6,8 @@ body {
 #company {
   font-size: 36px;
   color: white;
-  margin-right: 900px;
+  padding-left: 700px;
+  padding-right: 700px;
 }
 
 #motto {
@@ -49,22 +50,25 @@ h3 {
   font-size: 40px;
   font-weight: 600;
   margin-bottom: 40px;
-  text-align: center;
-  margin-right: 900px;
+  padding-left: 700px;
+ padding-right: 700px;
 }
-.benefits ul {
- margin-right: 900px;
+.benefits ul  {
+ padding-left: 700px;
+ padding-right: 700px;
 }
-.benefits li {
-  margin-right: 900px;
+
 
 }
 .benefits {
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 300x;
+  margin-bottom: 300px;
 
 }
-
+.benefits p {
+  padding-left: 650px;
+  padding-right: 650px;
+}
   
 .testimonial {
 	background: url(../images/testimonial_bg.jpg) no-repeat top center #071324;
