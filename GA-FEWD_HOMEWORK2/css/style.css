@@ -39,11 +39,6 @@ body {
   padding-top: 32px;
   padding-bottom: 32px;
  }
- .middle {
-  height: 700px;
-  background-color
-  padding-top: 60px;
- }
  
 h3 {
   color: #033048;
@@ -61,13 +56,17 @@ h3 {
 
 }
 .benefits {
-  margin-top: 300x;
-  margin-bottom: 300px;
+  padding-top: 300px;
+  padding-bottom: 300px;
 
 }
 .benefits p {
   padding-left: 650px;
   padding-right: 650px;
+}
+.bennies {
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
   
 .testimonial {
