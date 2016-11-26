@@ -58,9 +58,14 @@ h3 {
   margin-right: 900px;
   text-align: center;
 }
-#benefits { 
- 
-} 
+.benefits ul {
+ margin-right: 900px;
+}
+.benefits li {
+  margin-right: 900px;
+
+}
+
   
 .testimonial {
 	background: url(../images/testimonial_bg.jpg) no-repeat top center #071324;
