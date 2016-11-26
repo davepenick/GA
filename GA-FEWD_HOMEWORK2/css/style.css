@@ -1,24 +1,18 @@
 body {
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
 
 }
 
 #company {
   font-size: 36px;
-  font-family: helvetica;
   color: white;
   margin-right: 900px;
-  
-
-
 }
+
 #motto {
   font-size: 22px;
-  font-family: helvetica;
   color: white;
   text-align: center;
-
-
 }
 .wrapper {
     text-align: center;
@@ -63,6 +57,11 @@ h3 {
 }
 .benefits li {
   margin-right: 900px;
+
+}
+.benefits {
+  margin-top: 100px;
+  margin-bottom: 100px;
 
 }
 
@@ -116,7 +115,6 @@ padding:10px;
 }
 .logo {
   font-size: 48px;
-  font-family: helvetica;
   font-weight: 800;
   width:960px;
   margin:0 auto;
@@ -137,7 +135,6 @@ footer ul li {
 }
 footer p {
   font-size: 18px;
-  font-family: helvetica;
   color: #fff;
   font-weight: 600;
 }
