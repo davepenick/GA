@@ -6,8 +6,8 @@ body {
 #company {
   font-size: 36px;
   color: white;
-  padding-left: 700px;
-  padding-right: 700px;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 
 #motto {
@@ -45,28 +45,28 @@ h3 {
   font-size: 40px;
   font-weight: 600;
   margin-bottom: 40px;
-  padding-left: 700px;
- padding-right: 700px;
+  padding-left: 150px;
+ padding-right: 150px;
 }
 .benefits ul  {
- padding-left: 700px;
- padding-right: 700px;
+ padding-left: 200px;
+ padding-right: 200px;
 }
 
 
 }
 .benefits {
-  padding-top: 300px;
-  padding-bottom: 300px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 
 }
 .benefits p {
-  padding-left: 650px;
-  padding-right: 650px;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 .bennies {
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin-top: 200px;
+  margin-bottom: 200px;
 }
   
 .testimonial {
