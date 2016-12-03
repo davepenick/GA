@@ -6,8 +6,13 @@ body {
 #company {
   font-size: 36px;
   color: white;
+<<<<<<< HEAD
   padding-left: 200px;
   padding-right: 200px;
+=======
+  padding-left: 150px;
+  padding-right: 150px;
+>>>>>>> origin/master
 }
 
 #motto {
